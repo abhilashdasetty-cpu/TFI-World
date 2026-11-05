@@ -1,0 +1,6 @@
+{
+  "name": "TFI UNIVERSE — Telugu Cinema & Filmmaking Academy",
+  "description": "Beyond the Screen. Into the World of Telugu Cinema. The ultimate encyclopedia for Telugu male heroes, movies, YouTube video discovery, interactive storyboarding, and filmmaking academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
